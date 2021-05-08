@@ -1,2 +1,2 @@
-# android_foodmanager_giuaky
-[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>)
+# android_foodmanager
+
